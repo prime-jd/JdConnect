@@ -6,3 +6,8 @@ It provides users with the ability to create profiles, post updates, interact wi
 <img src = "client/ScreenShots/2.png">
 <img src = "client/ScreenShots/3.png">
 <img src = "client/ScreenShots/4.png">
+# to run 
+1. Download and Extract zip file .
+2. Run  
+``` npm install ```
+3. Run ``` npm run dev ```
